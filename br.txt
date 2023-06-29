@@ -1,0 +1,9 @@
+1) id
+2) severity
+3) environment
+4) title
+5) steps
+6) expected result
+7) actual result
+8) attachment
+9) bug started
